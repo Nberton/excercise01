@@ -1,13 +1,13 @@
 #excercise01
 This is a new file.
 
-#master
+###master
 These are additions to the file. To be commited for step 2
-#happybranch
+###happybranch
 These are some additions in the happy branch.
 
-##happierbranch
+###happierbranch
 These are some additions on the happierbranch branch
 
-##branchThree
+###branchThree
 These are additions in the branch Three Branch. In addition I added headers to each previously taken step
