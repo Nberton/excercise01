@@ -1,9 +1,9 @@
 #excercise01
 
-*Nathan Berton
-*(Picture)![pic.JPG]
-*Graduating: 2016
-*Web Development
+* Nathan Berton
+* (Picture)![pic.JPG]
+* Graduating: 2016
+* Web Development
 
 
 This is a new file.
