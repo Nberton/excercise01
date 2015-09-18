@@ -1,7 +1,7 @@
 #excercise01
 
 *Nathan Berton
-*(Picture)![pic.jpg]
+*(Picture)![pic.JPG]
 *Graduating: 2016
 *Web Development
 
