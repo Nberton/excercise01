@@ -1,4 +1,11 @@
 #excercise01
+
+*Nathan Berton
+*(Picture)
+*Graduating: 2016
+*Web Development
+
+
 This is a new file.
 
 ###master
